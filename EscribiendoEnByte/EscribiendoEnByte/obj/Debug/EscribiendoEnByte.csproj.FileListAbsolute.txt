@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\EscribiendoEnByte\EscribiendoEnByte\bin\Debug\EscribiendoEnByte.exe.config
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\EscribiendoEnByte\EscribiendoEnByte\bin\Debug\EscribiendoEnByte.exe
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\EscribiendoEnByte\EscribiendoEnByte\bin\Debug\EscribiendoEnByte.pdb
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\EscribiendoEnByte\EscribiendoEnByte\obj\Debug\EscribiendoEnByte.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\EscribiendoEnByte\EscribiendoEnByte\obj\Debug\EscribiendoEnByte.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\EscribiendoEnByte\EscribiendoEnByte\obj\Debug\EscribiendoEnByte.exe
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\EscribiendoEnByte\EscribiendoEnByte\obj\Debug\EscribiendoEnByte.pdb
